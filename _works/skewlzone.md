@@ -1,5 +1,5 @@
 ---
-layout: Work
+layout: work
 title: "SkewZone Brain and Sensor pack for Humanoid Robotics"
 date: 2012
 author: Kim M. Wheeler
