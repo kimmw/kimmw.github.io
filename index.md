@@ -19,7 +19,6 @@ I’m a technologist and entrepreneur living in Colorado. I love robotics, space
 
 I'm the co-founder of [RoadNarrows Robotics](https://roadnarrows-robotics.github.io), a small robotics company developing software for robotics-related systems. We also provide sensors and robotics platforms for research and academia.
 
-![KimInFCo](https://assets/images/KimWinter.jpg)
 
 #### Mantra:
 
@@ -29,4 +28,5 @@ Dream as if you'll live forever. Live as if you'll die today.
 
 Science is *my* Superpower
 
+![KimInFCo](/assets/images/KimWinter.jpg)
 
