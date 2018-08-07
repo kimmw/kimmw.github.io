@@ -5,7 +5,7 @@ title: Portfolio
 <h1>{{ page.title }}</h1>
 <ul class="posts">
 
-  {% for work in site.categories.opus %}
+  {% for work in site.categories.portfolio %}
     <li><span style="display:inline-block; width:15%">{{ work.date | date_to_string }}</span> » <a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
   <!--
     <li><span>{{ work.date | date_to_string }}</span> » <a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
