@@ -3,11 +3,15 @@ layout: default
 title: Portfolio
 ---
 <h1>{{ page.title }}</h1>
-<ul class="posts">
+<ul class="posts" style="list-style-type: none;">
 
   {% for work in site.categories.portfolio %}
-    <li><span style="display:inline-block; width:15%">{{ work.date | date_to_string }}</span> » <a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
+
+  <li>» <a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
+  
   <!--
+    <li><span style="display:inline-block; width:15%">{{ work.date | date_to_string }}</span> » <a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
+
     <li><span>{{ work.date | date_to_string }}</span> » <a href="{{ work.url }}" title="{{ work.title }}">{{ work.title }}</a></li>
   -->
     {% endfor %}
