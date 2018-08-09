@@ -1,6 +1,6 @@
 ---
 layout: work
-title: "SkewZone Brain and Sensor pack for Humanoid Robotics"
+title: "SkewlZone Brain and Sensor pack for Humanoid Robotics"
 date: 2012-01-01
 starty: 2007
 endy: 2012
