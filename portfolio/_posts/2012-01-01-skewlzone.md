@@ -14,6 +14,13 @@ I was principal investigator on an NSF funded grant to develop open-source human
 
 ![RobotWithBrain](/assets/images/skewlzone-brainpack.jpg)
 
+### Botsense: Brains for Robots
+
+This is a recent presentation I did covering the history and technology from our SkewlZone project to the Hekateros manipulator and Laelaps rover, leveraging our common framework BotSense we developed as part of this grant. 
+
+[BotSense Presentation]({{ site.url }}/assets/docs/KimRobotTalk.pdf)
+
+
 ### Description
 
 In 2007, RoadNarrows collaborated with Southern Illinois University Edwardsville (SIUE) on the National Science Foundation (NSF) Phase I grant “STTR Phase I: General Robot Controller for Legged Mobile Robots with Integrated Open Source Software”. RoadNarrows subsequently was awarded a Phase II grant, for the period March 1, 2009 extended through August 31, 2011. I was the Principal Investigator (PI) for the project and Robin Knight led the engineering team. Prof. Jerry Weinberg from SIUE was the co-PI, and I led the research and project management.
