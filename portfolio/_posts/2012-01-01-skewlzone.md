@@ -14,7 +14,7 @@ I was principal investigator on an NSF funded grant to develop open-source human
 
 ![RobotWithBrain](/assets/images/skewlzone-brainpack.jpg)
 
-### Botsense: Brains for Robots
+#### Botsense: Brains for Robots
 
 This is a recent presentation I did covering the history and technology from our SkewlZone project to the Hekateros manipulator and Laelaps rover, leveraging our common framework BotSense we developed as part of this grant. 
 
