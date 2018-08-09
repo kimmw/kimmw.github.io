@@ -43,13 +43,13 @@ on board LEDs give the user instant feedback on the foot's current status and hi
 
 ### Links
 
-Principal Investigator for National Science Foundation Phase 1 grant: NSF IIP-1113964 SBIR Phase I: Scalable Computer Clusters Applied to Sensing and Control of Intelligent Manipulators for Agile Manufacturing (2011). https://www.nsf.gov/awardsearch/showAward?AWD_ID=1113964
+Principal Investigator for National Science Foundation Phase 1 grant: NSF IIP-1113964 SBIR Phase I: Scalable Computer Clusters Applied to Sensing and Control of Intelligent Manipulators for Agile Manufacturing (2011). [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1113964)
 
 
-Principal Investigator for National Science Foundation Phase 1 and 2 grants: NSF IIP-0848762, STTR Phase I/II: General Robot Controller for Legged Mobile Robots with Integrated Open Source Software (2009). https://www.nsf.gov/awardsearch/showAward?AWD_ID=0848762
+Principal Investigator for National Science Foundation Phase 1 and 2 grants: NSF IIP-0848762, STTR Phase I/II: General Robot Controller for Legged Mobile Robots with Integrated Open Source Software (2009). [NSF grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=0848762)
 
 
-Weinberg, J.B., W. Yu, K. Wheeler-Smith, R. Knight, R. Mead, I. Bernstein, J. Croxell, & D. Webster (2008). Making Intelligent Walking Robots Accessible to Educators: A Brain and Sensor Pack for Legged Mobile Robots. Technical Report of The 2008 Association for the Advancement of Artificial Intelligence (AAAI-08) Workshop on AI Education, Chicago, IL, https://www.researchgate.net/publication/252227972_Making_Intelligent_Walking_Robots_Accessible_to_Educators_A_Brain_and_Sensor_Pack_for_Legged_Mobile_Robots
+Weinberg, J.B., W. Yu, K. Wheeler-Smith, R. Knight, R. Mead, I. Bernstein, J. Croxell, & D. Webster (2008). Making Intelligent Walking Robots Accessible to Educators: A Brain and Sensor Pack for Legged Mobile Robots. Technical Report of The 2008 Association for the Advancement of Artificial Intelligence (AAAI-08) Workshop on AI Education, Chicago, IL, [paper](https://www.researchgate.net/publication/252227972_Making_Intelligent_Walking_Robots_Accessible_to_Educators_A_Brain_and_Sensor_Pack_for_Legged_Mobile_Robots)
 
 
-Wheeler, K.M. (2007). RoadNarrows Presents General Purpose Brain-Packs, Controller Boards, and Robots for Education and Research, AAAI Spring Symposium 07, Stanford, CA.. https://www.researchgate.net/publication/221250962_RoadNarrows_Presents_General_Purpose_Brain-Packs_Controller_Boards_and_Robots_for_Education_and_Research 
+Wheeler, K.M. (2007). RoadNarrows Presents General Purpose Brain-Packs, Controller Boards, and Robots for Education and Research, AAAI Spring Symposium 07, Stanford, CA. [paper](https://www.researchgate.net/publication/221250962_RoadNarrows_Presents_General_Purpose_Brain-Packs_Controller_Boards_and_Robots_for_Education_and_Research)

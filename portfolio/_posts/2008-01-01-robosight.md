@@ -5,7 +5,7 @@ date: 2008-01-01
 starty: 2008
 endy: 2014
 author: Kim M. Wheeler
-tags: "neural network chip" "smart camera"
+tags: neural network chip smart camera
 ---
 
 ### Summary
