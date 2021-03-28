@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Kim M. Wheeler
+# Kim Margaret Wheeler
 [*about me*](/#about-me)
 
 ![Falcon Heavy](/assets/images/launch.jpg)
